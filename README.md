@@ -1,5 +1,5 @@
 # Slackbot with AWS Lex and Lambda
-This repository contains an example of a slack bot with AWS Lex and Lambda, for details and a walk through on how this was created please read the blog post at: [coming soon](www.google.com).
+This repository contains an example of a slack bot with AWS Lex and Lambda, for details and a walk through on how this was created please read the blog post at: [chttps://nicholasjackson.io/2017/04/25/slack-bot-aws-lambda/](https://nicholasjackson.io/2017/04/25/slack-bot-aws-lambda/).
 
 This project does not use any frameworks such as [Serverless](serverless.com) or [Apex](apex.run).  It is a plain example which uses [Terraform](terraform.io) to deploy the Lambda function.
 
