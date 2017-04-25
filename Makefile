@@ -1,3 +1,6 @@
+package: 
+	cd src && yarn install
+
 test:
 	cd src && yarn run jest
 

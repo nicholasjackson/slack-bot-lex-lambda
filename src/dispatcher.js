@@ -89,7 +89,7 @@ exports.dispatch = function(intentRequest, slackClient, callback) {
 
   const name = intentRequest.currentIntent.name;
 
-  if(name == 'WhereIs') {
+  if(name == 'WhatTimezone') {
      const user = intentRequest.currentIntent.slots.User;
 
      slackClient.getUserDetails(user, (ret) => {

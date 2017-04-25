@@ -6,7 +6,7 @@ var dispatcher = require('./dispatcher');
 
 var intentStub = {
   currentIntent: {
-    name: 'WhereIs',
+    name: 'WhatTimezone',
     slots: {
       User: 'nicjackson'
     }
