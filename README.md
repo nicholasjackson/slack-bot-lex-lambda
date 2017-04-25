@@ -30,7 +30,7 @@ $ make test
 The tests are not comprehensive however and are intended to show how unit tests can be leveraged to cover the inability to run the application code locally with AWS Lambda.
 
 ## Deploying
-Set the following environment variables:
+Set the following environment variables I recommend using direnv [https://direnv.net](https://direnv.net):
 
 | Variable | Description |
 | -------- | ----------- |
